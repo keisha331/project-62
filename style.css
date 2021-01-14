@@ -1,0 +1,55 @@
+body {
+    text-align: center;
+}
+
+#myCarousel {
+    background-color: black;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    color: lightblue;
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#myCarousel2 {
+    background-color: black;
+}
+
+#myCarousel2 img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+#myCarousel3 {
+    background-color: black;
+}
+
+#myCarousel3 img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+#myCarousel4 {
+    background-color: black;
+}
+
+#myCarousel4 img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+#myCarousel5 {
+    background-color: black;
+}
+
+#myCarousel5 img {
+    height: 300px;
+    margin-top: 35px;
+}
